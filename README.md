@@ -1,4 +1,4 @@
-# Shopify-App-Analysis-Success-Drivers-in-the-App-Marketplace-Power-BI-
+# Shopify-App-Analysis-Success-Drivers-in-the-App-Marketplace-Power-BI
 📊 Part 1: App Landscape Overview
 
 Using the apps table, I developed key visualizations to understand the Shopify App Store ecosystem:
